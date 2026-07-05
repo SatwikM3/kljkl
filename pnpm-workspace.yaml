@@ -1,3 +1,9 @@
+minimumReleaseAge: 1440
+
+updateConfig:
+  ignoreDependencies:
+    - '@titaniumnetwork-dev/ultraviolet'
+
 allowBuilds:
   '@mercuryworkshop/scramjet': true
   core-js: true
